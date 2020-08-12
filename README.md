@@ -1,6 +1,4 @@
-# Line-clipping-algorithm
-#include<stdio.h>
-#include<conio.h>
+#include<iostream.h>
 #include<graphics.h>
 #include<math.h>
 int xmin,ymin,xmax,ymax;
